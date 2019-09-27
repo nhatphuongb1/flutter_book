@@ -1,13 +1,22 @@
 # flutter_book
 
-A new Flutter project.
 
+## Work breakdown structure
 ![alt text](./docs/images/FlutterBookWBS.PNG)
 
 
-## Work breakdown structure
-
-
+### Dependencies
+        dependencies:
+        flutter:
+        sdk: flutter
+        scoped_model: 1.0.1
+        sqflite: 1.1.2
+        path_provider: 0.5.0+1
+        flutter_slidable: 0.4.9
+        intl: 0.15.7
+        image_picker: 0.4.12+1
+        flutter_calendar_carousel: 1.3.15+3
+        cupertino_icons: ^0.1.2
 ## Getting Started
 
 This project is a starting point for a Flutter application.
